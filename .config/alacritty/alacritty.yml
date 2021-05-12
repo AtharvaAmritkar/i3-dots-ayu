@@ -80,6 +80,6 @@ key_bindings:
     - { key: C, mods: Alt|Shift, action: Copy }
 font:
   normal:
-    family: 'Roboto Mono'
+    family: 'JetBrains Mono'
     style: Regular
-  size: 9
+  size: 10
